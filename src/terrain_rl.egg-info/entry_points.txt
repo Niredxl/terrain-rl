@@ -1,3 +1,0 @@
-[console_scripts]
-terrain-demo = terrain_rl.scripts.demo:main
-terrain-ppo = terrain_rl.scripts.train_ppo:main
